@@ -1,5 +1,3 @@
-import { GetServerSideProps, InferGetServerSidePropsType } from 'next'
-import Image from 'next/image'
 import React from 'react'
 
 type Data = {

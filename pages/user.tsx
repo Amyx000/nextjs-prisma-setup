@@ -10,6 +10,7 @@ type Props = {
     data: Data[]
 }
 
+
 function user({ data }: Props) {
     return (
         <div style={{ "width": "50%", "margin": "100px auto", "display": "grid","gridTemplateColumns":"auto 1fr", "gap": "20px", "alignItems": "center" }}>
